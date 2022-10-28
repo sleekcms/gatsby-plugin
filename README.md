@@ -5,7 +5,7 @@ Gatsby source plugin for fetching data from SleekCMS
 ## Install
 
 ```bash
-yarn add gatsby-sleekcms-plugin
+npm install gatsby-sleekcms-plugin
 ```
 
 ## How to use
